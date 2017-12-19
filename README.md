@@ -12,7 +12,7 @@
 # 下载
 
 
-百度网盘：https://pan.baidu.com/s/1slqeoiD
+百度网盘:https://pan.baidu.com/s/1mid2OvY
 文件大约2.4G
 下载之后，可以直接制作USB启动盘，即可启动。
 
@@ -26,4 +26,5 @@
 即可开始挖以太币
 
 作者，安满
+
 微信号：aman5568
